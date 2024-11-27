@@ -1,6 +1,4 @@
-# Accident-Detection-Systema# Accident Detection System
-
-**Last Updated: *7 June 2022***
+# Accident Detection System
 
 1. Demonstration
 2. What is Accident Detection System?
